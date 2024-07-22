@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="7" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-22T03:55:45 IST" name="Default suite" finished-at="2024-07-22T03:55:59 IST" duration-ms="14151">
+    <groups>
+    </groups>
+    <test started-at="2024-07-22T03:55:45 IST" name="Default test" finished-at="2024-07-22T03:55:59 IST" duration-ms="14151">
+      <class name="bottle.Store_Pet">
+        <test-method signature="createWithlist()[pri:0, instance:bottle.Store_Pet@7bab3f1a]" started-at="2024-07-22T03:55:45 IST" name="createWithlist" finished-at="2024-07-22T03:55:59 IST" duration-ms="13797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createWithlist -->
+      </class> <!-- bottle.Store_Pet -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
